@@ -1,6 +1,10 @@
 
 # Drop My Order
 
+A brief description of what this project does and who it's for
+
+This is a simple React application bootstrapped with Vite.
+
 ## Requirements
 
 - Node.js (>=12.0.0)
@@ -12,18 +16,18 @@
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/ManishGupta-x/DropmyOrder.git
+git clone https://github.com/ManishGupta-x/DropmyOrder
 ```
 Navigate into the project directory:
 
 ```bash 
-cd DropmyOrder
+cd Dropmyorder
 ```
 
 Install dependencies using npm:
 
 ```bash
-npm install
+npm Install
 ```
 
 Or, if you prefer using yarn:
